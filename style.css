@@ -176,8 +176,10 @@ body {
   line-height: 60px;
 } 
 .block-3__work__h2 {
+  text-decoration: none;
   font-size: 30px;
   line-height: 44px;
+  color: #21243D;
 }
 .text-block {
   font-size: 16px;
