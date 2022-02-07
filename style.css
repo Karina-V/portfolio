@@ -27,6 +27,9 @@ body {
   color: #000000;
   text-decoration: none;
 }
+.nav ul li a:hover {
+  color: #FF6464;;
+}
 .block-1 {
   display: flex;
   justify-content: space-between;
@@ -75,9 +78,18 @@ body {
   font-size: 20px;
   line-height: 29px;
 }
+.button__primary:hover {
+  color: #fff;
+  box-shadow: 2px 2px 8px #333;
+}
+.button__primary:active {
+  transform: scale(0.9);
+}
 .button__primary_button_red {
   color: #fff;
   background-color: #FF6464;
+  box-shadow: 0px 0px 7px #333;
+  transition: all 0.8s;
 }
 .block-container {
   margin: 0 auto;
