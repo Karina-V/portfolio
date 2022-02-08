@@ -22,13 +22,17 @@ body {
   font-size: 20px;
   line-height: 29px;
   text-align: right;
-}
-.nav ul li a {
+} 
+.nav__item_not {
   color: #000000;
   text-decoration: none;
 }
 .nav ul li a:hover {
-  color: #FF6464;;
+  color: #FF6464;
+}
+.nav__item_active {
+  color: #FF6464;
+  text-decoration: none;
 }
 .block-1 {
   display: flex;
