@@ -207,22 +207,7 @@ body {
   flex-flow: column wrap;
   margin-left: 2%;
 }  
-.block-3__work1 {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-.block-3__work2 {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-.block-3__work3 {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-.block-3__work4 {
+.block-3__work-el {
   display: flex;
   justify-content: space-between;
   align-items: center;
