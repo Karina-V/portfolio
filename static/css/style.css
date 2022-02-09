@@ -3,12 +3,13 @@
 html,
 body {
   font-family: "Heebo", sans-serif;
-  margin: 0;
+  margin: 0 ;
   padding: 0;
 }
 .container {
   margin: 0 auto;
   max-width: 870px;
+  padding: 0 25px;
 }
 .nav ul {
   list-style: none;
@@ -232,6 +233,9 @@ body {
 }
 hr {
   border: 1px solid #E0E0E0;
+}
+.footer-padding {
+  margin: 0 0 45px 0;
 }
 .block-4 {
   max-width: 680px;
